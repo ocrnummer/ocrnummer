@@ -1,4 +1,5 @@
-<h1 align="center">Greetings fellow human! I'm Alexander</h1>
+<h3 align="center">Greetings fellow human!</h3>
+<h1 align="center">I'm Alexander</h1>
 <h3 align="center">Frontend developer and graphic designer based in southern Sweden 🇸🇪</h3>
 
 - 🌱 I’m currently learning **Socket.io and MongoDB**
