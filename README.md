@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Socket.io and MongoDB**
 
-- 📫 How to reach me **bergquist.alexander@gmail.com**
+- 📫 Reach me at **bergquist.alexander@gmail.com** or <a src="https://www.linkedin.com/in/alexander-bergquist-a392aa1b2/">Linkedin</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
