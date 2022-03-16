@@ -2,9 +2,9 @@
 <h1 align="center">I'm Alexander!</h1>
 <h3 align="center">Frontend developer and graphic designer based in southern Sweden 🇸🇪</h3>
 
-- 🌱 I’m currently learning **Socket.io and MongoDB**
+- 🌱 I’m currently studying Frontend development at Medieinstitutet, Malmö
 
-- 📫 Reach me at **bergquist.alexander@gmail.com** or <a src="https://www.linkedin.com/in/alexander-bergquist-a392aa1b2/">Linkedin</a>
+- 📫 Reach me at **bergquist.alexander@gmail.com** or <a href="https://www.linkedin.com/in/alexander-bergquist-a392aa1b2/">Linkedin</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
