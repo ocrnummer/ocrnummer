@@ -6,7 +6,7 @@
 
 - Employed at AEB in Malmö.
 
-- Currentyl Android development in Kotlin 
+- Currently studying Android development in Kotlin 
 
 - Educated in Frontend development at Medieinstitutet, Malmö
 
